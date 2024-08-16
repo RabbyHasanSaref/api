@@ -1,6 +1,6 @@
 [
   {
-    "_id": "66bcce58c03e1fcfc7756404",
+
     "productName": "Samsung Galaxy S21 Ultra",
     "productImage": "https://images.unsplash.com/photo-1720048171731-15b3d9d5473f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Galaxy S21 Ultra with 6.8-inch Dynamic AMOLED display.",
@@ -11,7 +11,7 @@
     "creationDate": "2024-08-01T10:00:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756405",
+
     "productName": "Apple iPhone 13 Pro Max",
     "productImage": "https://images.unsplash.com/photo-1517765371796-5bd3a7d30a29?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple iPhone 13 Pro Max with 6.7-inch Super Retina XDR display.",
@@ -22,7 +22,7 @@
     "creationDate": "2024-08-02T11:15:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756406",
+
     "productName": "Redmi Note 10 Pro",
     "productImage": "https://images.unsplash.com/photo-1574682592331-da56c2f08612?q=80&w=1937&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Redmi Note 10 Pro with 6.67-inch AMOLED display and 108MP camera.",
@@ -33,7 +33,7 @@
     "creationDate": "2024-08-03T12:30:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756407",
+
     "productName": "Samsung Galaxy Z Fold 3",
     "productImage": "https://plus.unsplash.com/premium_photo-1666107278219-181d205a5d26?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Galaxy Z Fold 3 with a 7.6-inch foldable display.",
@@ -44,7 +44,7 @@
     "creationDate": "2024-08-04T13:45:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756408",
+
     "productName": "Apple iPhone SE (2024)",
     "productImage": "https://images.unsplash.com/photo-1720048171731-15b3d9d5473f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple iPhone SE (2024) with A15 Bionic chip and 4.7-inch display.",
@@ -55,7 +55,7 @@
     "creationDate": "2024-08-05T14:00:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756409",
+
     "productName": "Redmi K40 Pro",
     "productImage": "https://images.unsplash.com/photo-1517765371796-5bd3a7d30a29?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Redmi K40 Pro with 6.67-inch AMOLED display and Snapdragon 888.",
@@ -66,7 +66,7 @@
     "creationDate": "2024-08-06T15:15:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775640a",
+
     "productName": "Samsung Galaxy M31",
     "productImage": "https://images.unsplash.com/photo-1574682592331-da56c2f08612?q=80&w=1937&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Galaxy M31 with 6.4-inch Super AMOLED display and 6000mAh battery.",
@@ -77,7 +77,7 @@
     "creationDate": "2024-08-07T16:30:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775640b",
+
     "productName": "Apple iPhone 12 Mini",
     "productImage": "https://images.unsplash.com/photo-1720048171731-15b3d9d5473f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple iPhone 12 Mini with 5.4-inch Super Retina XDR display.",
@@ -88,7 +88,7 @@
     "creationDate": "2024-08-08T17:45:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775640c",
+
     "productName": "Redmi 9 Power",
     "productImage": "https://images.unsplash.com/photo-1574682592331-da56c2f08612?q=80&w=1937&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Redmi 9 Power with 6.53-inch Full HD+ display and 5000mAh battery.",
@@ -99,7 +99,7 @@
     "creationDate": "2024-08-09T18:00:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775640d",
+
     "productName": "Samsung Galaxy A52",
     "productImage": "https://images.unsplash.com/photo-1720048171731-15b3d9d5473f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Galaxy A52 with 6.5-inch Super AMOLED display and quad camera setup.",
@@ -110,7 +110,7 @@
     "creationDate": "2024-08-10T19:15:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775640e",
+
     "productName": "Apple MacBook Pro M1",
     "productImage": "https://images.unsplash.com/photo-1517430868310-0bc91ef7d89a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple MacBook Pro M1 with 13-inch Retina display and M1 chip.",
@@ -121,7 +121,7 @@
     "creationDate": "2024-08-11T20:30:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775640f",
+
     "productName": "Samsung Galaxy Book Flex",
     "productImage": "https://images.unsplash.com/photo-1651169610763-fddf392fadb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Galaxy Book Flex with 13.3-inch QLED display and 10th Gen Intel Core.",
@@ -132,7 +132,7 @@
     "creationDate": "2024-08-12T21:45:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756410",
+
     "productName": "RedmiBook Pro 14",
     "productImage": "https://images.unsplash.com/photo-1651169610523-edca6032aaef?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "RedmiBook Pro 14 with 14-inch 2.5K display and Intel Core i5.",
@@ -143,7 +143,7 @@
     "creationDate": "2024-08-13T22:00:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756411",
+
     "productName": "Walton Prelude R1",
     "productImage": "https://images.unsplash.com/photo-1517430868310-0bc91ef7d89a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Walton Prelude R1 with 15.6-inch Full HD display and Intel Core i7.",
@@ -154,7 +154,7 @@
     "creationDate": "2024-08-14T23:15:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756412",
+
     "productName": "Apple MacBook Air M2",
     "productImage": "https://images.unsplash.com/photo-1651169610763-fddf392fadb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple MacBook Air M2 with 13.6-inch Liquid Retina display and M2 chip.",
@@ -165,7 +165,7 @@
     "creationDate": "2024-08-15T00:30:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756413",
+
     "productName": "Samsung Notebook 9",
     "productImage": "https://images.unsplash.com/photo-1651169610523-edca6032aaef?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Notebook 9 with 15-inch display and Intel Core i7.",
@@ -176,7 +176,7 @@
     "creationDate": "2024-08-16T01:45:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756414",
+
     "productName": "RedmiBook e-Learning Edition",
     "productImage": "https://images.unsplash.com/photo-1651169610763-fddf392fadb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "RedmiBook e-Learning Edition with 14-inch display and AMD Ryzen 5.",
@@ -187,7 +187,7 @@
     "creationDate": "2024-08-17T02:00:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756415",
+
     "productName": "Walton Karonda KX",
     "productImage": "https://images.unsplash.com/photo-1651169610523-edca6032aaef?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Walton Karonda KX with 15.6-inch display and Intel Core i5.",
@@ -198,7 +198,7 @@
     "creationDate": "2024-08-18T03:15:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756416",
+
     "productName": "Apple MacBook Pro M2",
     "productImage": "https://images.unsplash.com/photo-1651169610763-fddf392fadb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple MacBook Pro M2 with 14-inch Liquid Retina display and M2 chip.",
@@ -209,7 +209,7 @@
     "creationDate": "2024-08-19T04:30:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756417",
+
     "productName": "Samsung Galaxy Chromebook 2",
     "productImage": "https://images.unsplash.com/photo-1651169610523-edca6032aaef?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Galaxy Chromebook 2 with 13.3-inch QLED display and Intel Core i5.",
@@ -220,7 +220,7 @@
     "creationDate": "2024-08-20T05:45:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756418",
+
     "productName": "Apple iPad Pro 11-inch",
     "productImage": "https://images.unsplash.com/photo-1464380573004-8ca85a08751a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple iPad Pro 11-inch with M1 chip and Liquid Retina display.",
@@ -231,7 +231,7 @@
     "creationDate": "2024-08-21T06:00:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756419",
+
     "productName": "Samsung Galaxy Tab S7",
     "productImage": "https://images.unsplash.com/photo-1471279136892-55af5dc6895f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Galaxy Tab S7 with 11-inch LCD display and Snapdragon 865+.",
@@ -242,7 +242,7 @@
     "creationDate": "2024-08-22T07:15:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775641a",
+
     "productName": "Apple iPad Mini",
     "productImage": "https://plus.unsplash.com/premium_photo-1680461543998-dfdb89a44f5a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple iPad Mini with 8.3-inch Liquid Retina display and A15 Bionic chip.",
@@ -253,7 +253,7 @@
     "creationDate": "2024-08-23T08:30:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775641b",
+
     "productName": "Lenovo Tab P11",
     "productImage": "https://images.unsplash.com/photo-1464380573004-8ca85a08751a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Lenovo Tab P11 with 11-inch LCD display and Snapdragon 662.",
@@ -264,7 +264,7 @@
     "creationDate": "2024-08-24T09:45:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775641c",
+
     "productName": "Samsung Galaxy Watch 4",
     "productImage": "https://images.unsplash.com/photo-1574678564017-64f2a1543dc0?q=80&w=1939&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Samsung Galaxy Watch 4 with 40mm display and advanced fitness tracking.",
@@ -275,7 +275,7 @@
     "creationDate": "2024-08-25T10:00:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775641d",
+
     "productName": "Apple Watch Series 7",
     "productImage": "https://images.unsplash.com/photo-1549482199-bc1ca6f58502?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple Watch Series 7 with 45mm display and ECG monitoring.",
@@ -286,7 +286,7 @@
     "creationDate": "2024-08-26T11:15:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775641e",
+
     "productName": "Fitbit Charge 5",
     "productImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Fitbit Charge 5 with built-in GPS and advanced health metrics.",
@@ -297,7 +297,7 @@
     "creationDate": "2024-08-27T12:30:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc775641f",
+
     "productName": "Garmin Forerunner 945",
     "productImage": "https://images.unsplash.com/photo-1574678564017-64f2a1543dc0?q=80&w=1939&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Garmin Forerunner 945 with advanced GPS and multisport features.",
@@ -308,7 +308,7 @@
     "creationDate": "2024-08-28T13:45:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756420",
+
     "productName": "Apple AirPods Pro",
     "productImage": "https://images.unsplash.com/photo-1574678564017-64f2a1543dc0?q=80&w=1939&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple AirPods Pro with active noise cancellation and transparency mode.",
@@ -319,7 +319,7 @@
     "creationDate": "2024-08-29T14:00:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756421",
+
     "productName": "Sony WH-1000XM4",
     "productImage": "https://images.unsplash.com/photo-1624823183493-ed5832f48f18?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Sony WH-1000XM4 wireless headphones with noise cancellation.",
@@ -330,7 +330,7 @@
     "creationDate": "2024-08-30T15:15:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756422",
+
     "productName": "JBL Charge 5",
     "productImage": "https://images.unsplash.com/photo-1624823183493-ed5832f48f18?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "JBL Charge 5 portable speaker with waterproof design and 20-hour playtime.",
@@ -341,7 +341,7 @@
     "creationDate": "2024-08-31T16:30:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756423",
+
     "productName": "Apple Magic Mouse",
     "productImage": "https://images.unsplash.com/photo-1624823183493-ed5832f48f18?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Apple Magic Mouse with wireless connectivity and multi-touch surface.",
@@ -352,7 +352,7 @@
     "creationDate": "2024-09-01T17:45:00Z"
   },
   {
-    "_id": "66bcce58c03e1fcfc7756424",
+
     "productName": "Logitech MX Master 3",
     "productImage": "https://images.unsplash.com/photo-1624823183493-ed5832f48f18?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Logitech MX Master 3 mouse with advanced ergonomic design and customizable buttons.",
@@ -363,7 +363,7 @@
     "creationDate": "2024-09-02T18:30:00Z"
   },
   {
-    "_id": "66bcd030c03e1fcfc77732aa",
+
     "productName": "Smartphone C",
     "productImage": "https://images.unsplash.com/photo-1574682592331-da56c2f08612?q=80&w=1937&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Latest smartphone with high resolution display and powerful processor.",
@@ -374,7 +374,7 @@
     "creationDate": "2024-08-15T10:00:00Z"
   },
   {
-    "_id": "66bcd030c03e1fcfc77732ab",
+
     "productName": "Smartphone D",
     "productImage": "https://plus.unsplash.com/premium_photo-1666107278219-181d205a5d26?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Stylish smartphone with advanced camera features and sleek design.",
@@ -385,7 +385,7 @@
     "creationDate": "2024-08-15T10:15:00Z"
   },
   {
-    "_id": "66bcd030c03e1fcfc77732ac",
+
     "productName": "Laptop A",
     "productImage": "https://images.unsplash.com/photo-1517430868310-0bc91ef7d89a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "High-performance laptop with a sleek design and powerful specs.",
@@ -396,7 +396,7 @@
     "creationDate": "2024-08-15T10:30:00Z"
   },
   {
-    "_id": "66bcd030c03e1fcfc77732ad",
+
     "productName": "Laptop B",
     "productImage": "https://images.unsplash.com/photo-1651169610763-fddf392fadb4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Premium laptop with the latest features for gaming and productivity.",
@@ -407,7 +407,7 @@
     "creationDate": "2024-08-15T10:45:00Z"
   },
   {
-    "_id": "66bcd030c03e1fcfc77732ae",
+
     "productName": "Laptop C",
     "productImage": "https://images.unsplash.com/photo-1651169610523-edca6032aaef?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Compact laptop with high portability and decent performance.",
@@ -418,7 +418,7 @@
     "creationDate": "2024-08-15T11:00:00Z"
   },
   {
-    "_id": "66bcd030c03e1fcfc77732af",
+
     "productName": "Tablet A",
     "productImage": "https://images.unsplash.com/photo-1464380573004-8ca85a08751a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "description": "Versatile tablet with high-resolution display and long battery life.",
@@ -427,8 +427,7 @@
     "brandName": "Brand A",
     "ratings": 4.3,
     "creationDate": "2024-08-15T11:15:00Z"
-  },
-  {
-    "_id": "66bcd030c03e1fcfc77732b0",
-    "productName": "Tablet B",
-    "productImage": "https://images.unsplash.com/photo-1471279136892-55af5dc6895f?q=80&w=2071&auto=format&fit=
+  }
+  
+ ]
+ 
